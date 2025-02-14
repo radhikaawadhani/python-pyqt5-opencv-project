@@ -1,3 +1,3 @@
 # python-pyqt5-opencv-project
-This is my first git repository
-Author:Radhika Awadhan
+This is a pyqt5 project of mine demonstrating a scoreboard
+
